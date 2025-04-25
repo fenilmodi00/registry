@@ -1,0 +1,22 @@
+{
+  "name": "@elizaos/plugin-akash-chat",
+  "version": "1.0.0-beta.35",
+  "description": "Plugin starter for elizaOS",
+  "type": "plugin",
+  "platform": "universal",
+  "runtimeVersion": "1.0.0-beta.37",
+  "repository": "github:elizaos-plugins/plugin-akash-chat",
+  "maintainers": [
+    "fenilmodi00"
+  ],
+  "publishedAt": "2025-04-25T04:11:56.968Z",
+  "publishedBy": "fenilmodi00",
+  "dependencies": {
+    "@elizaos/cli": "1.0.0-beta.37",
+    "@elizaos/core": "1.0.0-beta.37",
+    "zod": "3.24.2"
+  },
+  "tags": [],
+  "license": "UNLICENSED",
+  "githubRepo": "fenilmodi00/@elizaos/plugin-akash-chat"
+}

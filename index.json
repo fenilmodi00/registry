@@ -115,5 +115,23 @@
       "project": [],
       "module": []
     }
+  },
+  "v2": {
+    "packages": {
+      "@elizaos/plugin-akash-chat": {
+        "name": "@elizaos/plugin-akash-chat",
+        "description": "Plugin starter for elizaOS",
+        "type": "plugin",
+        "versions": {
+          "1.0.0-beta.35": {
+            "version": "1.0.0-beta.35",
+            "runtimeVersion": "1.0.0-beta.37",
+            "platform": "universal",
+            "publishedAt": "2025-04-25T04:11:56.968Z",
+            "published": true
+          }
+        }
+      }
+    }
   }
 }
