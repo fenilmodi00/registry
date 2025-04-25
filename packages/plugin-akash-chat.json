@@ -1,6 +1,6 @@
 {
   "name": "@elizaos/plugin-akash-chat",
-  "description": "Plugin starter for elizaOS",
+  "description": "This plugin integrates Akash Chat API with ElizaOS, providing a complete replacement for OpenAI API functionality. It supports text generation, embeddings, tokenization, and object generation.",
   "repository": {
     "type": "git",
     "url": "github:elizaos-plugins/plugin-akash-chat"
@@ -21,7 +21,7 @@
       "gitBranch": "1.0.0-beta.35",
       "gitTag": "v1.0.0-beta.35",
       "runtimeVersion": "1.0.0-beta.37",
-      "releaseDate": "2025-04-25T04:11:58.748Z",
+      "releaseDate": "2025-04-25T04:28:56.052Z",
       "deprecated": false
     }
   ],
